@@ -1,0 +1,15 @@
+html, 
+body {
+    background-color: aqua;
+    height: 100%;
+}
+
+.for-normal-text {
+    text-decoration: none;
+}
+
+.table-design {
+    width: 100%;
+    border: 1px solid whitesmoke;
+    border-collapse: separate;
+}
